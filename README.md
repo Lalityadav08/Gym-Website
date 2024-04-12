@@ -1,0 +1,1 @@
+"Welcome to our gym website! We've created an interactive online space using HTML, CSS, and JavaScript where fitness enthusiasts can explore our offerings and services. From dynamic page layouts to responsive design elements, our website provides an engaging user experience. 
